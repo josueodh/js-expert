@@ -1,0 +1,23 @@
+[
+    {
+        "id": "b6876cc3-b14b-4802-8fd2-3bb9f5504b08",
+        "name": "Charger",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "5da93059-8f7e-4f10-9c3b-614af59249bf",
+        "name": "Ranchero",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "817c5fbd-c2b3-4f6e-b47a-7172b5e31a9c",
+        "name": "911",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    }
+]
